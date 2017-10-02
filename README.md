@@ -2,7 +2,7 @@
 During my internship at Procore, I had the opportunity to develop a mobile app that improved the parking and commuting logistics for the company's employees. I worked along with other 3 interns who shared my passion to learn new technologies and develop a good quality product. By the end of a week and a half, our product was completely functional and looked like this:
 
 ![detail](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_detail.jpg =250x20)
-![pool_feed](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_feed.jpg | width=100h)
+![pool_feed](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_feed.jpg | width=100)
 ![pool_map](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_map.jpg)
 ![profile](https://github.com/josuemy/Corepool/blob/master/Screenshots/profile.jpg)
 
