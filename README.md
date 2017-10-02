@@ -1,10 +1,10 @@
 # Corepool
 During my internship at Procore, I had the opportunity to develop a mobile app that improved the parking and commuting logistics for the company's employees. I worked along with other 3 interns who shared my passion to learn new technologies and develop a good quality product. By the end of a week and a half, our product was completely functional and looked like this:
 
-![detail]https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_detail.png
-![pool_feed]https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_feed.png
-![pool_map]https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_map.png
-![profile]https://github.com/josuemy/Corepool/blob/master/Screenshots/profile.png
+![detail](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_detail.png)
+![pool_feed](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_feed.png)
+![pool_map](https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_map.png)
+![profile](https://github.com/josuemy/Corepool/blob/master/Screenshots/profile.png)
 
 
 ## What was used to create the app?
