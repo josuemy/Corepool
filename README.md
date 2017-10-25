@@ -1,3 +1,5 @@
+# Where is the code?
+Corepool source code is owned by Procore and unfortunately can't be disclosed to the public. I've created this Readme in order to show the features and look the app had by the end of our Summer Project period.
 # Corepool
 During my internship at Procore, I had the opportunity to develop a mobile app that improved the parking and commuting logistics for the company's employees. I worked along with other 3 interns who shared my passion to learn new technologies and develop a good quality product. By the end of a week and a half, our product was completely functional and looked like this:
 
