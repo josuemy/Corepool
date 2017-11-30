@@ -8,6 +8,10 @@ During my internship at Procore, I had the opportunity to develop a mobile app t
 :-------------------------:|:-------------------------:
  <img src="https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_feed.jpg" width="250"> |  <img src="https://github.com/josuemy/Corepool/blob/master/Screenshots/pool_map.jpg" width="250">
 
+## News
+Nov 29, 2017 - Procore has started designing Corepool signs to be used in the company's parking lot! We are super excited to see people taking advantage of Corepool and getting the parking spots they deserve :)
+
+<img src="https://github.com/josuemy/Corepool/blob/master/Screenshots/corepool_plate.png">
 
 ## What was used to create the app?
 * React Native
